@@ -2,8 +2,6 @@
 
 The SOLID principles are a set of five design guidelines intended to make software designs more understandable, flexible, and maintainable. They help developers avoid code rot and refactor code efficiently.
 
-!
-
 ## 1. Single Responsibility Principle (SRP)
 > **"A class should have one, and only one, reason to change."**
 

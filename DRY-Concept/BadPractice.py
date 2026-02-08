@@ -1,3 +1,6 @@
+# This is a bad practice as we are repeating the same code for both account types
+# We can use OOP concept to avoid this code repetition and make our code more maintainable and scalable
+
 accountNo = input("Enter Account Numbder :")
 accountName = input("Enter Customer Name :")
 accountType = input("Enter Account Type :")

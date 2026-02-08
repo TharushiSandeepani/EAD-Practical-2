@@ -1,4 +1,7 @@
-// 
+// this code demonstrates how to correctly design classes to follow the Interface Segregation Principle (ISP)
+// which states that clients should not be forced to depend on interfaces they do not use.
+// In this example, we have separated the functionalities of printing, scanning, and faxing into different interfaces,
+// allowing classes to implement only the interfaces that are relevant to their functionality, thus adhering to the ISP.
 
 interface Printer {
 	void print();
